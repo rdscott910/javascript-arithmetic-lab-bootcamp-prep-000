@@ -1,3 +1,3 @@
-function add(number) {
+function add(math.floor) {
   return (a + b)
 }
